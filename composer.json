@@ -1,9 +1,9 @@
 {
-    "name": "jms/serializer",
+    "name": "groupby/serializer",
     "type": "library",
     "description": "Library for (de-)serializing data of any complexity; supports XML, JSON, and YAML.",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
-    "homepage": "http://jmsyst.com/libs/serializer",
+    "homepage": "http://github.com/groupby/serializer",
     "license": "Apache2",
     "authors": [
         {
